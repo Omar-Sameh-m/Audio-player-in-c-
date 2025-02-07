@@ -1,5 +1,5 @@
-#ifndef SURAH_H
-#define SURAH_H
+#ifndef SURAH_HPP
+#define SURAH_HPP
 #include <string>
 using namespace std;
 
