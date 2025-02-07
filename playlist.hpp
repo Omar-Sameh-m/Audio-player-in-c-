@@ -1,5 +1,5 @@
-#ifndef PLAYLIST_H
-#define PLAYLIST_H
+#ifndef PLAYLIST_HPP
+#define PLAYLIST_HPP
 #include <string>
 #include <iostream>
 #include <SFML/Audio.hpp>
