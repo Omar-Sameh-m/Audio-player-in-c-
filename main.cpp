@@ -1,6 +1,6 @@
 #include <iostream>
 #include <conio.h>
-#include "playlist.cpp"
+#include "playlist.hpp"
 
 using namespace std;
 
