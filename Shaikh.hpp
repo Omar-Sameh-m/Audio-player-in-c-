@@ -1,5 +1,5 @@
-#ifndef SHAIKH_H
-#define SHAIKH_H
+#ifndef SHAIKH_HPP
+#define SHAIKH_HPP
 #include"surah.cpp"
 #include <string>
 using namespace std;
