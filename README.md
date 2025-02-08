@@ -64,7 +64,5 @@ This project is a simple **audio player** built in **C++** using **SFML** for au
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests. 🚀
 
-## License
-This project is licensed under the **MIT License**.
 
 
